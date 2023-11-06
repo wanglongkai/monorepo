@@ -1,0 +1,5 @@
+packages:
+  - 'packages/*'
+  - 'apis'
+  - 'utils'
+  - '!**/test/**'
